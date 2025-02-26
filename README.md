@@ -75,8 +75,9 @@ By leveraging **dynamic dashboards**, businesses can **optimize strategies, impr
 ---
 
 ## 📌 Connect with Me  
-💼 **[LinkedIn](your-linkedin-profile)**  
-📧 **Email:** your-email@example.com  
+💼 **[LinkedIn](www.linkedin.com/in/syam-ghanta-54b1691aa
+
+)**  
 
 ---
 
