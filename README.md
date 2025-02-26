@@ -13,6 +13,9 @@ The primary goal is to extract actionable insights from sales data, identify opp
  DAX (Data Analysis Expressions) – Advanced calculations & measures
  Excel – Data preprocessing & integration
 
+
+
+
  Key Dashboard Insights
  Key Performance Indicators (KPIs)
  Total Sales
